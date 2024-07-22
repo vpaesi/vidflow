@@ -1,5 +1,6 @@
 # Olá! Bem vindo ao meu projeto de website de vídeos: VidFlow.
 
+A proposta desse projeto foi praticar o <b>JavaScript</b> utilizando uma <b>API</b> fake, codando o index.html e o script.js para:
 - Transformar o layout do Figma em código;
 - Construir o cabeçalho, barra lateral e seção de categorias do VidFlow;
 - Instalar a API Fake JSON Server;
