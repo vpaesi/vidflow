@@ -1,22 +1,9 @@
 # Olá! Bem vindo ao meu projeto de website de vídeos: VidFlow.
 
 A proposta desse projeto foi praticar o <b>JavaScript</b> utilizando uma <b>API</b> fake, codando o index.html e o script.js para:
-- Transformar o layout do Figma em código;
-- Construir o cabeçalho, barra lateral e seção de categorias do VidFlow;
-- Instalar a API Fake JSON Server;
-- Busca dos dados na API com o Fetch;
-- Lidar com .then e com Promises;
-- Manipular o DOM para exibir os dados da API;
-- Usar o .catch para capturar erros;
-- Evitar o “Callback Hell”;
-- Refatorar o código assíncrono com Async/await;
-- Realizar tratamento de erros com os blocos Try-Catch-Finally;
-- Tratar erros personalizados com o throw new Error;
-- Implementar uma barra de pesquisa para filtrar vídeos por título;
-- Refatorar o código para torná-lo mais sucinto e organizado;
-- Implementar funcionalidade ao filtro de categorias.
+- Transformar o layout do Figma em código, construir o cabeçalho, barra lateral e seção de categorias do VidFlow, instalar a API Fake JSON Server, busca dos dados na API com o Fetch, lidar com .then e com Promises, manipular o DOM para exibir os dados da API, usar o .catch para capturar erros, evitar o “Callback Hell”, refatorar o código assíncrono com Async/await, realizar tratamento de erros com os blocos Try-Catch-Finally, tratar erros personalizados com o throw new Error, implementar uma barra de pesquisa para filtrar vídeos por título, refatorar o código para torná-lo mais sucinto e organizado e implementar funcionalidade ao filtro de categorias.
 
-[![vidflow.png](https://i.postimg.cc/gJsRGxXH/vidflow.png)](https://postimg.cc/N9yL4fxK)
+[![vid.png](https://i.postimg.cc/k46dt4Px/vid.png)](https://postimg.cc/Kk2W6mzz)
 
 ## Ferramentas e Tecnologias utilizadas:
 
